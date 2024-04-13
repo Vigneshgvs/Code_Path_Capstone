@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# TaskTracker
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Original App Design Project - README Template
 
 ### Description
 
-[Provide a brief description of your app, its purpose, and functionality.]
+TaskTracker is a comprehensive task management iOS app designed to help users organize their daily routines and habits effortlessly. With features like user-friendly login, easy task creation, customizable account settings, and insightful progress tracking, TaskTracker empowers users to stay on top of their goals and accomplishments. Whether journaling daily routines, exploring past entries, or connecting with others to share progress, TaskTracker offers a seamless and intuitive experience for enhancing productivity and achieving personal milestones.
 
 ### App Evaluation
 
